@@ -34,7 +34,7 @@ class BooksController {
 
   update(_id, book) {
     return new Promise((resolve, reject) => {
-      Book.update({ _id }, { $set: book })
+      Book.findByIdAndUpdate({ _id }, { $set: book })
       .then(book => resolve(book))
       .catch(error => reject(error))
     });
