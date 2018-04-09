@@ -1,14 +1,14 @@
 # *Mern Stater project*
 
 # Overview
-  This project is a fullstack starter app with Nodejs, Mongoose and ReactJS
-  First page [Material Dashboard React - Free Material-UI Design Admin](https://creativetimofficial.github.io/material-dashboard-react/)
+  This project is a fullstack starter app with Nodejs, Mongoose and ReactJS  
+  First page [Material Dashboard React - Free Material-UI Design Admin](https://creativetimofficial.github.io/material-dashboard-react/)  
 
   
 
 # How do I install this?
 
-  Download and extract this project and run commands below.
+  Download and extract this project and run commands below.  
 
 // `cd mern-starter`  
 // `npm install` or `yarn install`  
