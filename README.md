@@ -20,8 +20,9 @@
 // $ `npm start` start react app  
 
 # Struct
-
-.  
+  
+```
+. 
 ├── bin  
 │   └── www               `// Setup`  
 ├── public                `// *public resources, img ...*`  
@@ -51,7 +52,7 @@
 │   ├── variables  
 │   └── views  
 └──  
-
+```
 # Keywords  
   - NodeJs
   - ExpressJS
